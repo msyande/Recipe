@@ -1,0 +1,28 @@
+
+a{
+	font-weight: 500;
+}
+.bg-img{
+	background-image: url("images/banner.png");
+	position: relative;
+	min-height: 400px;
+
+}
+.navbar{
+	padding-left: 50px ;
+	padding-right: 50px;
+}
+.btn{
+	border-radius: 22px;
+	font-weight: 500;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.li{
+	color: #0000ff;
+}
+.desc{
+	padding-left: 70px ;
+	padding-right: 950px;
+	padding-top: 50px;
+}
