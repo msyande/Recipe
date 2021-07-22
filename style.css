@@ -5,7 +5,7 @@ a{
 .bg-img{
 	background-image: url("images/banner.png");
 	position: relative;
-	min-height: 400px;
+	min-height: 450px;
 
 }
 .navbar{
@@ -25,4 +25,12 @@ a{
 	padding-left: 70px ;
 	padding-right: 950px;
 	padding-top: 50px;
+}
+.container{
+	align-content: center;
+	justify-content: center;
+	padding-top:  25px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 25px;
 }
